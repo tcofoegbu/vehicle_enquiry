@@ -38,7 +38,7 @@
       "dateOfOriginalRegistration": "2018-03-06-13T14:11:22",
       "dateOfOriginalManufacture": "2018-03-06-13T14:11:22",
       "colour": "Grey",
-      "secondaryColour": "BLUE",
+      "secondaryColour": "BLACK",
       "euroStatus": "Euro 6 BR",
       "make": "Honda",
       "model": "Accord",
@@ -57,7 +57,7 @@
       "dateOfOriginalRegistration": "2019-07-06-13T14:11:22",
       "dateOfOriginalManufacture": "2019-07-06-13T14:11:22",
       "colour": "White",
-      "secondaryColour": "BLUE",
+      "secondaryColour": "RED",
       "euroStatus": "Euro 6 BR",
       "make": "Mercerdes",
       "model": "Benz",
@@ -75,8 +75,8 @@
       "dateOfFirstRegistration": "2020-03-06-13T14:11:22",
       "dateOfOriginalRegistration": "2020-03-06-13T14:11:22",
       "dateOfOriginalManufacture": "2020-01-06-13T14:11:22",
-      "colour": "White",
-      "secondaryColour": "BLUE",
+      "colour": "BLACK",
+      "secondaryColour": "GOLD",
       "euroStatus": "Euro 6 BR",
       "make": "Honda",
       "model": "E",
@@ -85,7 +85,7 @@
       "fuelType": "Electric",
       "unladenWeight": "11000",
       "massInService": "10000",
-      "co2Emmission": "115"
+      "co2Emmission": "0"
     }
   ],
 

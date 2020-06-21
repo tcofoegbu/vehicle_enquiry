@@ -3,16 +3,92 @@
     {
       "id": 1,
       "title": "hello"
-    },  
+    },
     {
       "id": 2,
       "title": "world"
-    },
-    {
-      "id": "xyz",
-      "title": "superb!"
     }
   ],
+
+  "vehicles": [
+    {
+      "id": 1,
+      "registrationNumber": "CAR1",
+      "dateChanged": "2019-07-06-13T14:11:22",
+      "dateOfFirstRegistration": "2019-07-06-13T14:11:22",
+      "dateOfOriginalRegistration": "2019-07-06-13T14:11:22",
+      "dateOfOriginalManufacture": "2019-07-06-13T14:11:22",
+      "colour": "White",
+      "secondaryColour": "BLUE",
+      "euroStatus": "Euro 6 BR",
+      "make": "Tesla",
+      "model": "Model 3",
+      "taxClass": "48",
+      "bodyType": 56,
+      "fuelType": "Electric",
+      "unladenWeight": "11000",
+      "massInService": "10000",
+      "co2Emmission": "0"
+    },
+    {
+      "id": 2,
+      "registrationNumber": "CAR2",
+      "dateChanged": "2018-03-06-13T14:11:22",
+      "dateOfFirstRegistration": "2018-03-06-13T14:11:22",
+      "dateOfOriginalRegistration": "2018-03-06-13T14:11:22",
+      "dateOfOriginalManufacture": "2018-03-06-13T14:11:22",
+      "colour": "Grey",
+      "secondaryColour": "BLUE",
+      "euroStatus": "Euro 6 BR",
+      "make": "Honda",
+      "model": "Accord",
+      "taxClass": "48",
+      "bodyType": 56,
+      "fuelType": "Petrol",
+      "unladenWeight": "11000",
+      "massInService": "10000",
+      "co2Emmission": "205"
+    },
+    {
+      "id": 3,
+      "registrationNumber": "CAR3",
+      "dateChanged": "2019-07-06-13T14:11:22",
+      "dateOfFirstRegistration": "2019-07-06-13T14:11:22",
+      "dateOfOriginalRegistration": "2019-07-06-13T14:11:22",
+      "dateOfOriginalManufacture": "2019-07-06-13T14:11:22",
+      "colour": "White",
+      "secondaryColour": "BLUE",
+      "euroStatus": "Euro 6 BR",
+      "make": "Mercerdes",
+      "model": "Benz",
+      "taxClass": "48",
+      "bodyType": 56,
+      "fuelType": "DIESEL",
+      "unladenWeight": "11000",
+      "massInService": "10000",
+      "co2Emmission": "115"
+    },
+    {
+      "id": 4,
+      "registrationNumber": "CAR4",
+      "dateChanged": "2020-03-06-13T14:11:22",
+      "dateOfFirstRegistration": "2020-03-06-13T14:11:22",
+      "dateOfOriginalRegistration": "2020-03-06-13T14:11:22",
+      "dateOfOriginalManufacture": "2020-01-06-13T14:11:22",
+      "colour": "White",
+      "secondaryColour": "BLUE",
+      "euroStatus": "Euro 6 BR",
+      "make": "Honda",
+      "model": "E",
+      "taxClass": "48",
+      "bodyType": 56,
+      "fuelType": "Electric",
+      "unladenWeight": "11000",
+      "massInService": "10000",
+      "co2Emmission": "115"
+    }
+  ],
+
   "profile": {
     "name": "typicode"
   }
